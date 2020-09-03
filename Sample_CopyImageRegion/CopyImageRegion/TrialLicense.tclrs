@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<TcLicenseInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.beckhoff.com/schemas/2011/11/TcLicenseInfo">
+	<LicenseInfo>
+		<SystemId>{FB9FFEFD-B2BD-C20E-9FDE-78F52EBD5CC6}</SystemId>
+		<IssueTime>2020-08-18T07:47:00</IssueTime>
+		<ExpireTime>2020-08-26T00:00:00</ExpireTime>
+		<LicenseKey>ba238770bf17b060a51a216f4ee9bf2149e3be66a8b2834e7ad0aef9294638e7c8ab958ef1a8d0a6c0022162ccffca3fed59bcadabd35894b5e34f1a5683dc3508ef089e19a4e0a1f81c02a8fecf0ace4a3ec8b3a35def17a6590c24b9ff8a553c19a347034a8c2c6118eb7d85cf6395e3ee0f644e8a597ac594693fd9f241b860fd2f815a14530036a7dc511312edeffe3446b854ba40a37eca29a0363b733d7637d3a8d2c8f29091bf1bae32b30381d4722b6348241a4cbe4d569b0d3e6fa4e8ec3a00b171e778fab8e92a6c93940badea90a775b36f2bfb96313c1ec6f2832978909515c17c0f35d084a62d3867568583acebecb540ff44f2c3b975fa567d</LicenseKey>
+		<License>
+			<LicenseId>{2C358067-6E81-4F6A-B8D9-AC1F63FEB6FD}</LicenseId>
+			<Name>TC3 Vision Base</Name>
+			<OrderNo>TF7100</OrderNo>
+		</License>
+		<License>
+			<LicenseId>{4C256767-E6E6-4AF5-BD68-9F7ABAD0C200}</LicenseId>
+			<Name>TC3 ADS</Name>
+			<OrderNo>TC1000</OrderNo>
+		</License>
+		<License>
+			<LicenseId>{66689887-CCBD-452C-AC9A-039D997C6E66}</LicenseId>
+			<Name>TC3 PLC</Name>
+			<OrderNo>TC1200</OrderNo>
+		</License>
+		<License>
+			<LicenseId>{3FF18E97-7754-401B-93FB-70544DE28A13}</LicenseId>
+			<Name>TC3 IO</Name>
+			<OrderNo>TC1100</OrderNo>
+		</License>
+	</LicenseInfo>
+</TcLicenseInfo>
